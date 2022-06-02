@@ -1,2 +1,2 @@
 #!/bin/bash
-File 7. Intel script
+File 8. quote script
