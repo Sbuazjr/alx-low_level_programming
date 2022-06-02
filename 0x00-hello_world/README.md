@@ -1,2 +1,2 @@
 #!/bin/bash
-File 1. compiler script
+File 2. Assembler script
