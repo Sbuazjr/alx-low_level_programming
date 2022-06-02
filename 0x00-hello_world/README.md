@@ -1,2 +1,2 @@
 #!/bin/bash
-File 3. Name script
+File 4. Puts script
