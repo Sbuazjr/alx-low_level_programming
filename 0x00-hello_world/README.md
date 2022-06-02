@@ -1,2 +1,2 @@
 #!/bin/bash
-File 5. hello printf script
+File 6. size script
