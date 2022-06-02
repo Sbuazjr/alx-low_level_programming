@@ -1,2 +1,2 @@
 #!/bin/bash
-File 6. size script
+File 7. Intel script
