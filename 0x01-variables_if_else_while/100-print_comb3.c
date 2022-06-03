@@ -1,27 +1,35 @@
 #include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
 
 /**
-* main - Print the numbers of 00 to 99.
-* Return: 0
-*/
+ * main -prints all possible different combinations of 2 digits
+ *
+ * Return: Always 0 (Success)
+ */
 
 int main(void)
 {
-int num1, num2;
-for (num1 = 48 ; num1 < 58 ; num1++)
-{
-for (num2 = 48 ; num2 < 58 ; num2++)
-{
-putchar(num1);
-putchar(num2);
-if (num1 == 57 && num2 == 57)
-{
-continue;
-}
-putchar(',');
-putchar(' ');
-}
-}
-putchar(10);
-return (0);
+	int d, p;
+
+	for (d = '0'; d < '9'; d++)
+	{
+		for (p = d + 1; p <= '9'; p++)
+		{
+			if (p != d)
+			{
+				putchar(d);
+				putchar(p);
+
+				if (d == '8' && p == '9')
+					continue;
+
+				putchar(',');
+				putchar(' ');
+			}
+		}
+	}
+	putchar('\n');
+
+	return (0);
 }
