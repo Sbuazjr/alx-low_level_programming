@@ -1,2 +1,2 @@
 #!/bin/bash
-File 11. script that prints all possible different combinations of three digits.
+File 12. script that all possible combinations of two two-digit numbers.
