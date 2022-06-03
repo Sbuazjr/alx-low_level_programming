@@ -1,2 +1,2 @@
 #!/bin/bash
-File 1. Last digit script
+File 2. Print alphabet script
