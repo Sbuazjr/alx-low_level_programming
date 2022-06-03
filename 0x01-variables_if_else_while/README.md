@@ -1,2 +1,2 @@
 #!/bin/bash
-File 5. script that prints numbers of base 10
+File 6. Single number digits
