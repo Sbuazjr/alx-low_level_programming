@@ -1,2 +1,2 @@
 #!/bin/bash
-File 3. Print alphabet script
+File 4. Lowercase alphabet script
