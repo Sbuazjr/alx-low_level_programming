@@ -1,2 +1,2 @@
 #!/bin/bash
-File 6. Single number digits
+File 7. Smile in the mirror
