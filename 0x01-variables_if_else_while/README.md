@@ -1,2 +1,2 @@
 #!/bin/bash
-File 0. Positive or negative script
+File 1. Last digit script
