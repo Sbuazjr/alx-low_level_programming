@@ -1,2 +1,2 @@
 #!/bin/bash
-File 9. program that prints all possible combinations of single-digit numbers script
+File 10. script that prints all possible different combinations of two digits.
