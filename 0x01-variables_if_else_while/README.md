@@ -1,2 +1,2 @@
 #!/bin/bash
-File 7. Smile in the mirror
+File 8. Hexadecimal script
