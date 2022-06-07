@@ -1,1 +1,1 @@
-File 12. function that prints the n times table, starting with 0.
+File 13. Natural numbers
