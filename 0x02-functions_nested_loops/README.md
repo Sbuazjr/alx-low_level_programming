@@ -1,1 +1,1 @@
-File 8. fucntion that prints every minute of the day
+File 9. function that prints the 9 times table, starting with 0
