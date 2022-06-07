@@ -1,1 +1,1 @@
-File 10. function that adds two integers and returns the result.
+File 11. function that prints natural numbers
