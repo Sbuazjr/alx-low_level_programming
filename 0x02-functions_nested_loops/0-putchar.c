@@ -1,19 +1,21 @@
 #include "main.h"
 
 /**
- * main - Entry point
- * Return:0
+ * main - Print "main" followed by a new line.
+ * Return: 0
  */
 
 int main(void)
 {
-char c[9] = "_putchar";
-int i = 0;
-while (i < 8)
-{
-_putchar(c[i]);
-i++;
-}
-_putchar('\n');
-return (0);
+	char name[] = "main";
+	int i;
+
+	for (i = 0; i < 9; i++)
+	{
+		_putchar(name[i]);
+	}
+
+	_putchar('\n');
+
+	return (0);
 }
