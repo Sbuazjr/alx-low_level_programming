@@ -1,18 +1,20 @@
 #include "main.h"
+#include <string.h>
 
 /**
- * main - Print "main" followed by a new line.
- * Return: 0
+ * main - prints holberton
+ * Return: Always (0)
  */
-
 int main(void)
 {
-	char name[] = "main";
-	int i;
+	char c[] = "_putchar";
+	int length, i;
 
-	for (i = 0; i < 9; i++)
+	length = strlen(c);
+
+	for (i = 0; i < length; i++)
 	{
-		_putchar(name[i]);
+		_putchar(c[i]);
 	}
 
 	_putchar('\n');
