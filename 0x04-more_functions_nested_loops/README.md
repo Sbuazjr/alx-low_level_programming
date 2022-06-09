@@ -1,1 +1,1 @@
-File 0. Function that check for Uppercase
+File 1. Function that checks for a digit (0 through 9).
