@@ -1,1 +1,1 @@
-File 11. Program that finds and prints the largest prime factor of the number 612852475143, followed by a new line.
+File 12. Function that prints an integer.
