@@ -1,1 +1,1 @@
-File 12. Function that prints an integer.
+File 4. Function that prints the numbers, from 0 to 9, followed by a new line.
