@@ -1,1 +1,1 @@
-File 7. Function that draws a diagonal line on the terminal.
+File 8. Function that prints a square, followed by a new line.
