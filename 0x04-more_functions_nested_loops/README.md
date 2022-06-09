@@ -1,1 +1,1 @@
-File 8. Function that prints a square, followed by a new line.
+File 9. Fizz buzz
