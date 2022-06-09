@@ -1,1 +1,1 @@
-File 4. Function that prints the numbers, from 0 to 9 skipping 2 and 4
+File 5. Function that prints 10 times the numbers, from 0 to 14, followed by a new line.
