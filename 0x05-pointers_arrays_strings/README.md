@@ -1,1 +1,1 @@
-File 5-rev_string.c is a function that reverses a string.
+File 6-puts2.c is a function that prints one char out of 2 of a string, followed by a new line.
