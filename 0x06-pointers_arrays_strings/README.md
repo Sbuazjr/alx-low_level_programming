@@ -1,1 +1,1 @@
-File 1-strncat.c is a function that concatenates two strings that will use at most n bytes from src.
+File 2-strncpy.c is a function that copies a string.
