@@ -1,1 +1,1 @@
-File 6-cap_string.c is a function that capitalizes all words of a string.
+File 7-leet.c is a function that encodes a string into 1337.
