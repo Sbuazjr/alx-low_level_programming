@@ -1,1 +1,1 @@
-File 102-magic.c is a magic file
+File 103-infinite_add.c a function that adds two numbers.
