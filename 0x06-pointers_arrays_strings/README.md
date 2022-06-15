@@ -1,1 +1,1 @@
-File 2-strncpy.c is a function that copies a string.
+File 3-strcmp.c is a function that compares two strings.
