@@ -1,1 +1,1 @@
-File 100-set_string.c function that sets the value of a pointer to a char.
+File 101-crackme_password file that contains the password for the crackme2 executable.
