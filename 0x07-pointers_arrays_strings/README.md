@@ -1,1 +1,1 @@
-File 2-strchr.c - function that locates a character in a string.
+File 3-strspn.c - function that gets the length of a prefix substring.
