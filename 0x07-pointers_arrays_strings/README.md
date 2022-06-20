@@ -1,1 +1,1 @@
-File 4-strpbrk.c - function that searches a string for any of a set of bytes.
+File 5-strstr.c - function that locates a substring.
