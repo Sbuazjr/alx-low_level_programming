@@ -1,1 +1,1 @@
-File 2-strlen_recursion.c - function that returns the length of a string.
+File 3-factorial.c - function that returns the factorial of a given number.
