@@ -1,5 +1,5 @@
 #!/bin/bash
 
-gcc -c -fPIC *.c
+gcc -Wall -g -c *.c
 
 gcc *.o -shared -o liball.so
