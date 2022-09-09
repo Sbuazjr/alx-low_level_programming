@@ -1,2 +1,6 @@
 #!/bin/sh
-gcc *.c -shared -c liball.so
+gcc *.c -c -fPIC
+# creating the object file
+
+gcc *.o -shared -o liball.so
+# Making the .o files executable
